@@ -48,7 +48,7 @@ jobs:
       - name: Download APK (contoh)
         run: |
           # Contoh download APK demo untuk testing
-          wget -q -O sample.apk https://d.apkpure.com/b/XAPK/com.apps.MyXL\?version\=latest
+          wget -q -O sample.apk https://limewire.com/d/UNGUT#7VVLUSuZGs
           
       - name: Decompile APK
         env:
